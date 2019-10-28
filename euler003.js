@@ -1,3 +1,4 @@
+//What is the largest prime factor of the number 600851475143 ?
 (function euler003(){
 	calcLargestPrimeFactor(600851475143);
 	function calcLargestPrimeFactor(n){
